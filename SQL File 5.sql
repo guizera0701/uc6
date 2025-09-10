@@ -1,0 +1,1 @@
+alter table enderecos add columncep varchar (10) after estado;
